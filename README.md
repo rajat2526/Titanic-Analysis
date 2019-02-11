@@ -1,2 +1,2 @@
 # Titanic-Analysis
-Using Logistic Regression Algorithm in machine Learning Algorithm
+Using Logistic Regression Algorithm in machine Learning.
